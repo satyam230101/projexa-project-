@@ -1,0 +1,202 @@
+{
+  "version": "v1.0",
+  "updated_at": "2026-04-01T00:00:00Z",
+  "disclaimer": "For informational support only. Doses vary by age, pregnancy, kidney/liver disease, allergies, and other medicines. Always follow label instructions and consult a licensed clinician.",
+  "diseases": [
+    {
+      "disease_id": "influenza",
+      "medicines": [
+        {
+          "name": "Paracetamol (Acetaminophen)",
+          "usage": "fever or body ache relief",
+          "type": "otc"
+        },
+        {
+          "name": "Ibuprofen",
+          "usage": "pain and fever relief if suitable",
+          "type": "otc"
+        },
+        {
+          "name": "Oseltamivir",
+          "usage": "prescription antiviral for early high-risk cases",
+          "type": "prescription"
+        }
+      ]
+    },
+    {
+      "disease_id": "common_cold",
+      "medicines": [
+        {
+          "name": "Paracetamol (Acetaminophen)",
+          "usage": "pain and fever relief",
+          "type": "otc"
+        },
+        {
+          "name": "Cetirizine",
+          "usage": "runny nose and sneezing",
+          "type": "otc"
+        },
+        {
+          "name": "Dextromethorphan",
+          "usage": "dry cough relief",
+          "type": "otc"
+        }
+      ]
+    },
+    {
+      "disease_id": "covid_19",
+      "medicines": [
+        {
+          "name": "Paracetamol (Acetaminophen)",
+          "usage": "fever and body ache relief",
+          "type": "otc"
+        },
+        {
+          "name": "Oral Rehydration Fluids",
+          "usage": "support hydration",
+          "type": "supportive"
+        },
+        {
+          "name": "Nirmatrelvir/Ritonavir",
+          "usage": "prescription antiviral for selected high-risk patients",
+          "type": "prescription"
+        }
+      ]
+    },
+    {
+      "disease_id": "asthma",
+      "medicines": [
+        {
+          "name": "Salbutamol Inhaler",
+          "usage": "quick relief for wheeze and breathlessness",
+          "type": "prescription"
+        },
+        {
+          "name": "Inhaled Corticosteroid",
+          "usage": "controller therapy to prevent flare-ups",
+          "type": "prescription"
+        }
+      ]
+    },
+    {
+      "disease_id": "hypertension",
+      "medicines": [
+        {
+          "name": "Amlodipine",
+          "usage": "blood pressure control",
+          "type": "prescription"
+        },
+        {
+          "name": "Losartan",
+          "usage": "blood pressure and kidney protection in selected patients",
+          "type": "prescription"
+        }
+      ]
+    },
+    {
+      "disease_id": "type_2_diabetes_mellitus",
+      "medicines": [
+        {
+          "name": "Metformin",
+          "usage": "first-line glucose control for many adults",
+          "type": "prescription"
+        },
+        {
+          "name": "SGLT2 Inhibitor",
+          "usage": "glucose control with cardio-renal benefit in selected patients",
+          "type": "prescription"
+        }
+      ]
+    },
+    {
+      "disease_id": "gastroesophageal_reflux_disease",
+      "medicines": [
+        {
+          "name": "Omeprazole",
+          "usage": "acid suppression for reflux symptoms",
+          "type": "otc_or_prescription"
+        },
+        {
+          "name": "Antacid",
+          "usage": "short-term heartburn relief",
+          "type": "otc"
+        }
+      ]
+    },
+    {
+      "disease_id": "urinary_tract_infection",
+      "medicines": [
+        {
+          "name": "Nitrofurantoin",
+          "usage": "first-line antibiotic for selected uncomplicated UTI",
+          "type": "prescription"
+        },
+        {
+          "name": "Paracetamol (Acetaminophen)",
+          "usage": "pain or fever relief",
+          "type": "otc"
+        }
+      ]
+    },
+    {
+      "disease_id": "migraine",
+      "medicines": [
+        {
+          "name": "Ibuprofen",
+          "usage": "early attack pain relief if suitable",
+          "type": "otc"
+        },
+        {
+          "name": "Sumatriptan",
+          "usage": "acute migraine treatment for eligible patients",
+          "type": "prescription"
+        }
+      ]
+    },
+    {
+      "disease_id": "allergic_rhinitis",
+      "medicines": [
+        {
+          "name": "Cetirizine",
+          "usage": "sneezing and runny nose relief",
+          "type": "otc"
+        },
+        {
+          "name": "Fluticasone Nasal Spray",
+          "usage": "nasal inflammation control",
+          "type": "otc_or_prescription"
+        }
+      ]
+    },
+    {
+      "disease_id": "sinusitis",
+      "medicines": [
+        {
+          "name": "Saline Nasal Spray",
+          "usage": "nasal congestion support",
+          "type": "otc"
+        },
+        {
+          "name": "Paracetamol (Acetaminophen)",
+          "usage": "facial pain and fever relief",
+          "type": "otc"
+        }
+      ]
+    },
+    {
+      "disease_id": "acute_bronchitis",
+      "medicines": [
+        {
+          "name": "Dextromethorphan",
+          "usage": "dry cough control",
+          "type": "otc"
+        },
+        {
+          "name": "Guaifenesin",
+          "usage": "mucus thinning for productive cough",
+          "type": "otc"
+        }
+      ]
+    }
+  ]
+}

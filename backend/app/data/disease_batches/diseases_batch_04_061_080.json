@@ -1,0 +1,1348 @@
+{
+  "version": "v1.1",
+  "updated_at": "2026-03-24T13:20:32Z",
+  "diseases": [
+    {
+      "disease_id": "vertigo",
+      "disease_name": "Vertigo",
+      "aliases": [
+        "spinning sensation"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Vertigo when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "osteoarthritis",
+      "disease_name": "Osteoarthritis",
+      "aliases": [
+        "degenerative joint disease"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Osteoarthritis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "rheumatoid_arthritis",
+      "disease_name": "Rheumatoid Arthritis",
+      "aliases": [
+        "RA"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Rheumatoid Arthritis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gout",
+      "disease_name": "Gout",
+      "aliases": [
+        "gouty arthritis"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Gout when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "systemic_lupus_erythematosus",
+      "disease_name": "Systemic Lupus Erythematosus",
+      "aliases": [
+        "SLE",
+        "lupus"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Systemic Lupus Erythematosus when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "osteoporosis",
+      "disease_name": "Osteoporosis",
+      "aliases": [
+        "low bone density"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Osteoporosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "low_back_pain",
+      "disease_name": "Low Back Pain",
+      "aliases": [
+        "lumbar pain"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Low Back Pain when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cervical_spondylosis",
+      "disease_name": "Cervical Spondylosis",
+      "aliases": [
+        "neck arthritis"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Cervical Spondylosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "psoriasis",
+      "disease_name": "Psoriasis",
+      "aliases": [
+        "plaque psoriasis"
+      ],
+      "common_symptoms": [
+        "itching",
+        "rash",
+        "redness",
+        "skin irritation"
+      ],
+      "differential_clues": [
+        "Consider Psoriasis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergen exposure",
+        "immune dysregulation",
+        "skin barrier damage"
+      ],
+      "red_flags": [
+        "rapidly spreading painful rash",
+        "fever with rash",
+        "skin necrosis"
+      ],
+      "home_care": [
+        "gentle skin care",
+        "avoid triggers",
+        "keep skin moisturized"
+      ],
+      "when_to_seek_doctor": [
+        "persistent rash",
+        "recurrent flare-ups",
+        "secondary infection signs"
+      ],
+      "emergency_signs": [
+        "breathing difficulty with rash",
+        "mucosal involvement",
+        "severe skin pain"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "allergy testing when indicated",
+        "biopsy for atypical lesions"
+      ],
+      "treatment_overview": [
+        "topical/systemic therapy based on severity"
+      ],
+      "prevention": [
+        "trigger avoidance",
+        "sun protection",
+        "skin hydration"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Skin conditions",
+          "url": "https://medlineplus.gov/skindiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "eczema",
+      "disease_name": "Eczema",
+      "aliases": [
+        "atopic dermatitis"
+      ],
+      "common_symptoms": [
+        "itching",
+        "rash",
+        "redness",
+        "skin irritation"
+      ],
+      "differential_clues": [
+        "Consider Eczema when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergen exposure",
+        "immune dysregulation",
+        "skin barrier damage"
+      ],
+      "red_flags": [
+        "rapidly spreading painful rash",
+        "fever with rash",
+        "skin necrosis"
+      ],
+      "home_care": [
+        "gentle skin care",
+        "avoid triggers",
+        "keep skin moisturized"
+      ],
+      "when_to_seek_doctor": [
+        "persistent rash",
+        "recurrent flare-ups",
+        "secondary infection signs"
+      ],
+      "emergency_signs": [
+        "breathing difficulty with rash",
+        "mucosal involvement",
+        "severe skin pain"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "allergy testing when indicated",
+        "biopsy for atypical lesions"
+      ],
+      "treatment_overview": [
+        "topical/systemic therapy based on severity"
+      ],
+      "prevention": [
+        "trigger avoidance",
+        "sun protection",
+        "skin hydration"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Skin conditions",
+          "url": "https://medlineplus.gov/skindiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "acne_vulgaris",
+      "disease_name": "Acne Vulgaris",
+      "aliases": [
+        "acne"
+      ],
+      "common_symptoms": [
+        "itching",
+        "rash",
+        "redness",
+        "skin irritation"
+      ],
+      "differential_clues": [
+        "Consider Acne Vulgaris when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergen exposure",
+        "immune dysregulation",
+        "skin barrier damage"
+      ],
+      "red_flags": [
+        "rapidly spreading painful rash",
+        "fever with rash",
+        "skin necrosis"
+      ],
+      "home_care": [
+        "gentle skin care",
+        "avoid triggers",
+        "keep skin moisturized"
+      ],
+      "when_to_seek_doctor": [
+        "persistent rash",
+        "recurrent flare-ups",
+        "secondary infection signs"
+      ],
+      "emergency_signs": [
+        "breathing difficulty with rash",
+        "mucosal involvement",
+        "severe skin pain"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "allergy testing when indicated",
+        "biopsy for atypical lesions"
+      ],
+      "treatment_overview": [
+        "topical/systemic therapy based on severity"
+      ],
+      "prevention": [
+        "trigger avoidance",
+        "sun protection",
+        "skin hydration"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Skin conditions",
+          "url": "https://medlineplus.gov/skindiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cellulitis",
+      "disease_name": "Cellulitis",
+      "aliases": [
+        "skin infection"
+      ],
+      "common_symptoms": [
+        "itching",
+        "rash",
+        "redness",
+        "skin irritation"
+      ],
+      "differential_clues": [
+        "Consider Cellulitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergen exposure",
+        "immune dysregulation",
+        "skin barrier damage"
+      ],
+      "red_flags": [
+        "rapidly spreading painful rash",
+        "fever with rash",
+        "skin necrosis"
+      ],
+      "home_care": [
+        "gentle skin care",
+        "avoid triggers",
+        "keep skin moisturized"
+      ],
+      "when_to_seek_doctor": [
+        "persistent rash",
+        "recurrent flare-ups",
+        "secondary infection signs"
+      ],
+      "emergency_signs": [
+        "breathing difficulty with rash",
+        "mucosal involvement",
+        "severe skin pain"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "allergy testing when indicated",
+        "biopsy for atypical lesions"
+      ],
+      "treatment_overview": [
+        "topical/systemic therapy based on severity"
+      ],
+      "prevention": [
+        "trigger avoidance",
+        "sun protection",
+        "skin hydration"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Skin conditions",
+          "url": "https://medlineplus.gov/skindiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "dengue",
+      "disease_name": "Dengue",
+      "aliases": [
+        "breakbone fever"
+      ],
+      "common_symptoms": [
+        "fever",
+        "headache",
+        "body pain",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Dengue when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "mosquito exposure",
+        "travel to endemic zones"
+      ],
+      "red_flags": [
+        "bleeding",
+        "persistent vomiting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "hydration",
+        "rest",
+        "monitor warning signs closely"
+      ],
+      "when_to_seek_doctor": [
+        "high fever >2 days",
+        "appearance of warning signs"
+      ],
+      "emergency_signs": [
+        "shock signs",
+        "altered mental status",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "CBC",
+        "rapid antigen/antibody tests",
+        "PCR where available"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "disease-specific treatment when available"
+      ],
+      "prevention": [
+        "mosquito bite prevention",
+        "vector control",
+        "safe water practices"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Vector-borne diseases",
+          "url": "https://www.who.int/health-topics/vector-borne-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "malaria",
+      "disease_name": "Malaria",
+      "aliases": [
+        "plasmodium infection"
+      ],
+      "common_symptoms": [
+        "fever",
+        "headache",
+        "body pain",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Malaria when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "mosquito exposure",
+        "travel to endemic zones"
+      ],
+      "red_flags": [
+        "bleeding",
+        "persistent vomiting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "hydration",
+        "rest",
+        "monitor warning signs closely"
+      ],
+      "when_to_seek_doctor": [
+        "high fever >2 days",
+        "appearance of warning signs"
+      ],
+      "emergency_signs": [
+        "shock signs",
+        "altered mental status",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "CBC",
+        "rapid antigen/antibody tests",
+        "PCR where available"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "disease-specific treatment when available"
+      ],
+      "prevention": [
+        "mosquito bite prevention",
+        "vector control",
+        "safe water practices"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Vector-borne diseases",
+          "url": "https://www.who.int/health-topics/vector-borne-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "typhoid_fever",
+      "disease_name": "Typhoid Fever",
+      "aliases": [
+        "enteric fever"
+      ],
+      "common_symptoms": [
+        "fever",
+        "headache",
+        "body pain",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Typhoid Fever when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "mosquito exposure",
+        "travel to endemic zones"
+      ],
+      "red_flags": [
+        "bleeding",
+        "persistent vomiting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "hydration",
+        "rest",
+        "monitor warning signs closely"
+      ],
+      "when_to_seek_doctor": [
+        "high fever >2 days",
+        "appearance of warning signs"
+      ],
+      "emergency_signs": [
+        "shock signs",
+        "altered mental status",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "CBC",
+        "rapid antigen/antibody tests",
+        "PCR where available"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "disease-specific treatment when available"
+      ],
+      "prevention": [
+        "mosquito bite prevention",
+        "vector control",
+        "safe water practices"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Vector-borne diseases",
+          "url": "https://www.who.int/health-topics/vector-borne-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "chikungunya",
+      "disease_name": "Chikungunya",
+      "aliases": [
+        "chikv infection"
+      ],
+      "common_symptoms": [
+        "fever",
+        "headache",
+        "body pain",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Chikungunya when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "mosquito exposure",
+        "travel to endemic zones"
+      ],
+      "red_flags": [
+        "bleeding",
+        "persistent vomiting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "hydration",
+        "rest",
+        "monitor warning signs closely"
+      ],
+      "when_to_seek_doctor": [
+        "high fever >2 days",
+        "appearance of warning signs"
+      ],
+      "emergency_signs": [
+        "shock signs",
+        "altered mental status",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "CBC",
+        "rapid antigen/antibody tests",
+        "PCR where available"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "disease-specific treatment when available"
+      ],
+      "prevention": [
+        "mosquito bite prevention",
+        "vector control",
+        "safe water practices"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Vector-borne diseases",
+          "url": "https://www.who.int/health-topics/vector-borne-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "measles",
+      "disease_name": "Measles",
+      "aliases": [
+        "rubeola"
+      ],
+      "common_symptoms": [
+        "fever",
+        "rash or gland swelling",
+        "fatigue",
+        "upper respiratory symptoms"
+      ],
+      "differential_clues": [
+        "Consider Measles when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "incomplete vaccination",
+        "outbreak exposure"
+      ],
+      "red_flags": [
+        "breathing difficulty",
+        "dehydration",
+        "neurological symptoms"
+      ],
+      "home_care": [
+        "hydration",
+        "fever monitoring",
+        "isolation as advised"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fever",
+        "worsening rash",
+        "reduced oral intake"
+      ],
+      "emergency_signs": [
+        "seizure",
+        "confusion",
+        "severe breathing difficulty"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "serology/PCR in selected cases"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "complication management"
+      ],
+      "prevention": [
+        "timely vaccination",
+        "isolation during infectious period"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Immunization and vaccine-preventable diseases",
+          "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "mumps",
+      "disease_name": "Mumps",
+      "aliases": [
+        "parotitis"
+      ],
+      "common_symptoms": [
+        "fever",
+        "rash or gland swelling",
+        "fatigue",
+        "upper respiratory symptoms"
+      ],
+      "differential_clues": [
+        "Consider Mumps when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "incomplete vaccination",
+        "outbreak exposure"
+      ],
+      "red_flags": [
+        "breathing difficulty",
+        "dehydration",
+        "neurological symptoms"
+      ],
+      "home_care": [
+        "hydration",
+        "fever monitoring",
+        "isolation as advised"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fever",
+        "worsening rash",
+        "reduced oral intake"
+      ],
+      "emergency_signs": [
+        "seizure",
+        "confusion",
+        "severe breathing difficulty"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "serology/PCR in selected cases"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "complication management"
+      ],
+      "prevention": [
+        "timely vaccination",
+        "isolation during infectious period"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Immunization and vaccine-preventable diseases",
+          "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "rubella",
+      "disease_name": "Rubella",
+      "aliases": [
+        "german measles"
+      ],
+      "common_symptoms": [
+        "fever",
+        "rash or gland swelling",
+        "fatigue",
+        "upper respiratory symptoms"
+      ],
+      "differential_clues": [
+        "Consider Rubella when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "incomplete vaccination",
+        "outbreak exposure"
+      ],
+      "red_flags": [
+        "breathing difficulty",
+        "dehydration",
+        "neurological symptoms"
+      ],
+      "home_care": [
+        "hydration",
+        "fever monitoring",
+        "isolation as advised"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fever",
+        "worsening rash",
+        "reduced oral intake"
+      ],
+      "emergency_signs": [
+        "seizure",
+        "confusion",
+        "severe breathing difficulty"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "serology/PCR in selected cases"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "complication management"
+      ],
+      "prevention": [
+        "timely vaccination",
+        "isolation during infectious period"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Immunization and vaccine-preventable diseases",
+          "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "varicella",
+      "disease_name": "Varicella",
+      "aliases": [
+        "chickenpox"
+      ],
+      "common_symptoms": [
+        "fever",
+        "rash or gland swelling",
+        "fatigue",
+        "upper respiratory symptoms"
+      ],
+      "differential_clues": [
+        "Consider Varicella when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "incomplete vaccination",
+        "outbreak exposure"
+      ],
+      "red_flags": [
+        "breathing difficulty",
+        "dehydration",
+        "neurological symptoms"
+      ],
+      "home_care": [
+        "hydration",
+        "fever monitoring",
+        "isolation as advised"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fever",
+        "worsening rash",
+        "reduced oral intake"
+      ],
+      "emergency_signs": [
+        "seizure",
+        "confusion",
+        "severe breathing difficulty"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "serology/PCR in selected cases"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "complication management"
+      ],
+      "prevention": [
+        "timely vaccination",
+        "isolation during infectious period"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Immunization and vaccine-preventable diseases",
+          "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1342 @@
+{
+  "version": "v1.1",
+  "updated_at": "2026-03-24T13:20:32Z",
+  "diseases": [
+    {
+      "disease_id": "appendicitis",
+      "disease_name": "Appendicitis",
+      "aliases": [
+        "appendix inflammation"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Appendicitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "pancreatitis",
+      "disease_name": "Pancreatitis",
+      "aliases": [
+        "pancreas inflammation"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Pancreatitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "chronic_kidney_disease",
+      "disease_name": "Chronic Kidney Disease",
+      "aliases": [
+        "CKD"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Chronic Kidney Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "acute_kidney_injury",
+      "disease_name": "Acute Kidney Injury",
+      "aliases": [
+        "AKI"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Acute Kidney Injury when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "urinary_tract_infection",
+      "disease_name": "Urinary Tract Infection",
+      "aliases": [
+        "UTI"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Urinary Tract Infection when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "kidney_stones",
+      "disease_name": "Kidney Stones",
+      "aliases": [
+        "renal stones"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Kidney Stones when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "benign_prostatic_hyperplasia",
+      "disease_name": "Benign Prostatic Hyperplasia",
+      "aliases": [
+        "BPH"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Benign Prostatic Hyperplasia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "prostatitis",
+      "disease_name": "Prostatitis",
+      "aliases": [
+        "prostate inflammation"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Prostatitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "migraine",
+      "disease_name": "Migraine",
+      "aliases": [
+        "migraine headache"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Migraine when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "tension_type_headache",
+      "disease_name": "Tension-Type Headache",
+      "aliases": [
+        "tension headache"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Tension-Type Headache when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "epilepsy",
+      "disease_name": "Epilepsy",
+      "aliases": [
+        "seizure disorder"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Epilepsy when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "parkinson_disease",
+      "disease_name": "Parkinson Disease",
+      "aliases": [
+        "parkinsonism"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Parkinson Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "alzheimer_disease",
+      "disease_name": "Alzheimer Disease",
+      "aliases": [
+        "dementia"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Alzheimer Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "multiple_sclerosis",
+      "disease_name": "Multiple Sclerosis",
+      "aliases": [
+        "MS"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Multiple Sclerosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "peripheral_neuropathy",
+      "disease_name": "Peripheral Neuropathy",
+      "aliases": [
+        "nerve damage"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Peripheral Neuropathy when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "meningitis",
+      "disease_name": "Meningitis",
+      "aliases": [
+        "meningeal infection"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Meningitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "conjunctivitis",
+      "disease_name": "Conjunctivitis",
+      "aliases": [
+        "pink eye"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Conjunctivitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "glaucoma",
+      "disease_name": "Glaucoma",
+      "aliases": [
+        "optic nerve damage"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Glaucoma when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cataract",
+      "disease_name": "Cataract",
+      "aliases": [
+        "lens opacity"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Cataract when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "otitis_media",
+      "disease_name": "Otitis Media",
+      "aliases": [
+        "middle ear infection"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Otitis Media when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    }
+  ]
+}

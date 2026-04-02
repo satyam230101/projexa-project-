@@ -1,0 +1,1337 @@
+{
+  "version": "v1.1",
+  "updated_at": "2026-03-24T13:20:32Z",
+  "diseases": [
+    {
+      "disease_id": "type_2_diabetes_mellitus",
+      "disease_name": "Type 2 Diabetes Mellitus",
+      "aliases": [
+        "type 2 diabetes"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Type 2 Diabetes Mellitus when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "type_1_diabetes_mellitus",
+      "disease_name": "Type 1 Diabetes Mellitus",
+      "aliases": [
+        "type 1 diabetes"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Type 1 Diabetes Mellitus when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hypothyroidism",
+      "disease_name": "Hypothyroidism",
+      "aliases": [
+        "underactive thyroid"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Hypothyroidism when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hyperthyroidism",
+      "disease_name": "Hyperthyroidism",
+      "aliases": [
+        "overactive thyroid"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Hyperthyroidism when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "obesity",
+      "disease_name": "Obesity",
+      "aliases": [
+        "high body fat"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Obesity when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "metabolic_syndrome",
+      "disease_name": "Metabolic Syndrome",
+      "aliases": [
+        "insulin resistance syndrome"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Metabolic Syndrome when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cushing_syndrome",
+      "disease_name": "Cushing Syndrome",
+      "aliases": [
+        "hypercortisolism"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Cushing Syndrome when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "addison_disease",
+      "disease_name": "Addison Disease",
+      "aliases": [
+        "adrenal insufficiency"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Addison Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "polycystic_ovary_syndrome",
+      "disease_name": "Polycystic Ovary Syndrome",
+      "aliases": [
+        "PCOS"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Polycystic Ovary Syndrome when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gestational_diabetes",
+      "disease_name": "Gestational Diabetes",
+      "aliases": [
+        "pregnancy diabetes"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Gestational Diabetes when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gastroesophageal_reflux_disease",
+      "disease_name": "Gastroesophageal Reflux Disease",
+      "aliases": [
+        "GERD",
+        "acid reflux"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Gastroesophageal Reflux Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "peptic_ulcer_disease",
+      "disease_name": "Peptic Ulcer Disease",
+      "aliases": [
+        "stomach ulcer"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Peptic Ulcer Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "irritable_bowel_syndrome",
+      "disease_name": "Irritable Bowel Syndrome",
+      "aliases": [
+        "IBS"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Irritable Bowel Syndrome when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "inflammatory_bowel_disease",
+      "disease_name": "Inflammatory Bowel Disease",
+      "aliases": [
+        "IBD"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Inflammatory Bowel Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "crohn_disease",
+      "disease_name": "Crohn Disease",
+      "aliases": [
+        "regional enteritis"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Crohn Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "ulcerative_colitis",
+      "disease_name": "Ulcerative Colitis",
+      "aliases": [
+        "UC"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Ulcerative Colitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gastroenteritis",
+      "disease_name": "Gastroenteritis",
+      "aliases": [
+        "stomach flu"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Gastroenteritis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hepatitis_b",
+      "disease_name": "Hepatitis B",
+      "aliases": [
+        "HBV infection"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Hepatitis B when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "non_alcoholic_fatty_liver_disease",
+      "disease_name": "Non-Alcoholic Fatty Liver Disease",
+      "aliases": [
+        "NAFLD"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Non-Alcoholic Fatty Liver Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gallstones",
+      "disease_name": "Gallstones",
+      "aliases": [
+        "cholelithiasis"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Gallstones when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1386 @@
+{
+  "version": "v1.1",
+  "updated_at": "2026-03-24T13:20:32Z",
+  "diseases": [
+    {
+      "disease_id": "influenza",
+      "disease_name": "Influenza",
+      "aliases": [
+        "flu"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Influenza when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "common_cold",
+      "disease_name": "Common Cold",
+      "aliases": [
+        "viral cold"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Common Cold when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "covid_19",
+      "disease_name": "COVID-19",
+      "aliases": [
+        "coronavirus disease"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider COVID-19 when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "asthma",
+      "disease_name": "Asthma",
+      "aliases": [
+        "bronchial asthma"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Asthma when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "chronic_obstructive_pulmonary_disease",
+      "disease_name": "Chronic Obstructive Pulmonary Disease",
+      "aliases": [
+        "COPD"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Chronic Obstructive Pulmonary Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "pneumonia",
+      "disease_name": "Pneumonia",
+      "aliases": [
+        "lung infection"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Pneumonia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "tuberculosis",
+      "disease_name": "Tuberculosis",
+      "aliases": [
+        "TB"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Tuberculosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "acute_bronchitis",
+      "disease_name": "Acute Bronchitis",
+      "aliases": [
+        "chest cold"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Acute Bronchitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "sinusitis",
+      "disease_name": "Sinusitis",
+      "aliases": [
+        "sinus infection"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Sinusitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "allergic_rhinitis",
+      "disease_name": "Allergic Rhinitis",
+      "aliases": [
+        "hay fever"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Allergic Rhinitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hypertension",
+      "disease_name": "Hypertension",
+      "aliases": [
+        "high blood pressure"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Hypertension when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "coronary_artery_disease",
+      "disease_name": "Coronary Artery Disease",
+      "aliases": [
+        "ischemic heart disease"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Coronary Artery Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "heart_failure",
+      "disease_name": "Heart Failure",
+      "aliases": [
+        "congestive heart failure"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Heart Failure when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "atrial_fibrillation",
+      "disease_name": "Atrial Fibrillation",
+      "aliases": [
+        "AF"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Atrial Fibrillation when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "stroke",
+      "disease_name": "Stroke",
+      "aliases": [
+        "cerebrovascular accident"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Stroke when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "deep_vein_thrombosis",
+      "disease_name": "Deep Vein Thrombosis",
+      "aliases": [
+        "DVT"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Deep Vein Thrombosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "pulmonary_embolism",
+      "disease_name": "Pulmonary Embolism",
+      "aliases": [
+        "PE"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Pulmonary Embolism when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "peripheral_artery_disease",
+      "disease_name": "Peripheral Artery Disease",
+      "aliases": [
+        "PAD"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Peripheral Artery Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hyperlipidemia",
+      "disease_name": "Hyperlipidemia",
+      "aliases": [
+        "high cholesterol"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Hyperlipidemia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "myocardial_infarction",
+      "disease_name": "Myocardial Infarction",
+      "aliases": [
+        "heart attack"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Myocardial Infarction when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    }
+  ]
+}

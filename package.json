@@ -1,0 +1,18 @@
+{
+  "name": "image-card-with-hover-reveal",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd backend && ..\\.venv\\Scripts\\python.exe run.py",
+    "frontend": "npm run dev -w frontend",
+    "build": "npm run build -w frontend",
+    "frontend-install": "npm install -w frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "vite": "^8.0.1"
+  }
+}

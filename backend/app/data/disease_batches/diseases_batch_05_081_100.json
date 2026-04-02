@@ -1,0 +1,1324 @@
+{
+  "version": "v1.1",
+  "updated_at": "2026-03-24T13:20:32Z",
+  "diseases": [
+    {
+      "disease_id": "hiv_infection",
+      "disease_name": "HIV Infection",
+      "aliases": [
+        "human immunodeficiency virus"
+      ],
+      "common_symptoms": [
+        "genital discharge",
+        "painful urination",
+        "pelvic discomfort",
+        "sores or rash"
+      ],
+      "differential_clues": [
+        "Consider HIV Infection when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unprotected sex",
+        "multiple partners"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "fever",
+        "pregnancy with symptoms"
+      ],
+      "home_care": [
+        "avoid sexual contact until evaluated",
+        "hydration",
+        "partner notification"
+      ],
+      "when_to_seek_doctor": [
+        "any persistent genital symptoms",
+        "new sores or discharge"
+      ],
+      "emergency_signs": [
+        "high fever",
+        "severe abdominal pain",
+        "confusion"
+      ],
+      "diagnostics": [
+        "NAAT/serology",
+        "clinical exam"
+      ],
+      "treatment_overview": [
+        "pathogen-specific antimicrobial therapy",
+        "partner management"
+      ],
+      "prevention": [
+        "condom use",
+        "routine screening",
+        "prompt treatment"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Sexually transmitted infections",
+          "url": "https://www.who.int/health-topics/sexually-transmitted-infections",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "syphilis",
+      "disease_name": "Syphilis",
+      "aliases": [
+        "treponema infection"
+      ],
+      "common_symptoms": [
+        "genital discharge",
+        "painful urination",
+        "pelvic discomfort",
+        "sores or rash"
+      ],
+      "differential_clues": [
+        "Consider Syphilis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unprotected sex",
+        "multiple partners"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "fever",
+        "pregnancy with symptoms"
+      ],
+      "home_care": [
+        "avoid sexual contact until evaluated",
+        "hydration",
+        "partner notification"
+      ],
+      "when_to_seek_doctor": [
+        "any persistent genital symptoms",
+        "new sores or discharge"
+      ],
+      "emergency_signs": [
+        "high fever",
+        "severe abdominal pain",
+        "confusion"
+      ],
+      "diagnostics": [
+        "NAAT/serology",
+        "clinical exam"
+      ],
+      "treatment_overview": [
+        "pathogen-specific antimicrobial therapy",
+        "partner management"
+      ],
+      "prevention": [
+        "condom use",
+        "routine screening",
+        "prompt treatment"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Sexually transmitted infections",
+          "url": "https://www.who.int/health-topics/sexually-transmitted-infections",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gonorrhea",
+      "disease_name": "Gonorrhea",
+      "aliases": [
+        "gonococcal infection"
+      ],
+      "common_symptoms": [
+        "genital discharge",
+        "painful urination",
+        "pelvic discomfort",
+        "sores or rash"
+      ],
+      "differential_clues": [
+        "Consider Gonorrhea when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unprotected sex",
+        "multiple partners"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "fever",
+        "pregnancy with symptoms"
+      ],
+      "home_care": [
+        "avoid sexual contact until evaluated",
+        "hydration",
+        "partner notification"
+      ],
+      "when_to_seek_doctor": [
+        "any persistent genital symptoms",
+        "new sores or discharge"
+      ],
+      "emergency_signs": [
+        "high fever",
+        "severe abdominal pain",
+        "confusion"
+      ],
+      "diagnostics": [
+        "NAAT/serology",
+        "clinical exam"
+      ],
+      "treatment_overview": [
+        "pathogen-specific antimicrobial therapy",
+        "partner management"
+      ],
+      "prevention": [
+        "condom use",
+        "routine screening",
+        "prompt treatment"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Sexually transmitted infections",
+          "url": "https://www.who.int/health-topics/sexually-transmitted-infections",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "chlamydia",
+      "disease_name": "Chlamydia",
+      "aliases": [
+        "chlamydial infection"
+      ],
+      "common_symptoms": [
+        "genital discharge",
+        "painful urination",
+        "pelvic discomfort",
+        "sores or rash"
+      ],
+      "differential_clues": [
+        "Consider Chlamydia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unprotected sex",
+        "multiple partners"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "fever",
+        "pregnancy with symptoms"
+      ],
+      "home_care": [
+        "avoid sexual contact until evaluated",
+        "hydration",
+        "partner notification"
+      ],
+      "when_to_seek_doctor": [
+        "any persistent genital symptoms",
+        "new sores or discharge"
+      ],
+      "emergency_signs": [
+        "high fever",
+        "severe abdominal pain",
+        "confusion"
+      ],
+      "diagnostics": [
+        "NAAT/serology",
+        "clinical exam"
+      ],
+      "treatment_overview": [
+        "pathogen-specific antimicrobial therapy",
+        "partner management"
+      ],
+      "prevention": [
+        "condom use",
+        "routine screening",
+        "prompt treatment"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Sexually transmitted infections",
+          "url": "https://www.who.int/health-topics/sexually-transmitted-infections",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "depression",
+      "disease_name": "Depression",
+      "aliases": [
+        "major depressive disorder"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Depression when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "generalized_anxiety_disorder",
+      "disease_name": "Generalized Anxiety Disorder",
+      "aliases": [
+        "GAD"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Generalized Anxiety Disorder when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "panic_disorder",
+      "disease_name": "Panic Disorder",
+      "aliases": [
+        "panic attacks"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Panic Disorder when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "bipolar_disorder",
+      "disease_name": "Bipolar Disorder",
+      "aliases": [
+        "bipolar affective disorder"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Bipolar Disorder when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "schizophrenia",
+      "disease_name": "Schizophrenia",
+      "aliases": [
+        "psychotic disorder"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Schizophrenia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "insomnia",
+      "disease_name": "Insomnia",
+      "aliases": [
+        "sleep initiation disorder"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Insomnia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "iron_deficiency_anemia",
+      "disease_name": "Iron Deficiency Anemia",
+      "aliases": [
+        "IDA"
+      ],
+      "common_symptoms": [
+        "fatigue",
+        "pallor",
+        "dizziness",
+        "reduced exercise tolerance"
+      ],
+      "differential_clues": [
+        "Consider Iron Deficiency Anemia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "nutritional deficiency",
+        "chronic illness",
+        "blood loss"
+      ],
+      "red_flags": [
+        "chest pain",
+        "fainting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "nutrient-rich diet",
+        "medication adherence",
+        "follow-up blood tests"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fatigue",
+        "symptoms worsening"
+      ],
+      "emergency_signs": [
+        "severe breathlessness",
+        "collapse",
+        "active bleeding"
+      ],
+      "diagnostics": [
+        "CBC",
+        "iron/B12 profile",
+        "cause-specific tests"
+      ],
+      "treatment_overview": [
+        "supplementation or targeted treatment"
+      ],
+      "prevention": [
+        "balanced diet",
+        "screening in high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Anaemia",
+          "url": "https://www.who.int/health-topics/anaemia",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "vitamin_b12_deficiency",
+      "disease_name": "Vitamin B12 Deficiency",
+      "aliases": [
+        "cobalamin deficiency"
+      ],
+      "common_symptoms": [
+        "fatigue",
+        "pallor",
+        "dizziness",
+        "reduced exercise tolerance"
+      ],
+      "differential_clues": [
+        "Consider Vitamin B12 Deficiency when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "nutritional deficiency",
+        "chronic illness",
+        "blood loss"
+      ],
+      "red_flags": [
+        "chest pain",
+        "fainting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "nutrient-rich diet",
+        "medication adherence",
+        "follow-up blood tests"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fatigue",
+        "symptoms worsening"
+      ],
+      "emergency_signs": [
+        "severe breathlessness",
+        "collapse",
+        "active bleeding"
+      ],
+      "diagnostics": [
+        "CBC",
+        "iron/B12 profile",
+        "cause-specific tests"
+      ],
+      "treatment_overview": [
+        "supplementation or targeted treatment"
+      ],
+      "prevention": [
+        "balanced diet",
+        "screening in high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Anaemia",
+          "url": "https://www.who.int/health-topics/anaemia",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "breast_cancer",
+      "disease_name": "Breast Cancer",
+      "aliases": [
+        "mammary carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Breast Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cervical_cancer",
+      "disease_name": "Cervical Cancer",
+      "aliases": [
+        "cervix carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Cervical Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "colorectal_cancer",
+      "disease_name": "Colorectal Cancer",
+      "aliases": [
+        "colon cancer"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Colorectal Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "lung_cancer",
+      "disease_name": "Lung Cancer",
+      "aliases": [
+        "pulmonary carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Lung Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "prostate_cancer",
+      "disease_name": "Prostate Cancer",
+      "aliases": [
+        "prostatic carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Prostate Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "thyroid_cancer",
+      "disease_name": "Thyroid Cancer",
+      "aliases": [
+        "thyroid carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Thyroid Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "ovarian_cyst",
+      "disease_name": "Ovarian Cyst",
+      "aliases": [
+        "functional ovarian cyst"
+      ],
+      "common_symptoms": [
+        "pelvic pain",
+        "menstrual irregularity",
+        "bloating",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Ovarian Cyst when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "hormonal imbalance",
+        "family history",
+        "reproductive age factors"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "heavy bleeding",
+        "fainting"
+      ],
+      "home_care": [
+        "pain tracking",
+        "hydration",
+        "regular gynecological review"
+      ],
+      "when_to_seek_doctor": [
+        "persistent pelvic symptoms",
+        "cycle changes"
+      ],
+      "emergency_signs": [
+        "sudden severe pain",
+        "shock signs",
+        "pregnancy with pain/bleeding"
+      ],
+      "diagnostics": [
+        "pelvic exam",
+        "ultrasound",
+        "hormonal tests"
+      ],
+      "treatment_overview": [
+        "medical or surgical management depending on condition"
+      ],
+      "prevention": [
+        "routine reproductive health check-ups",
+        "early symptom reporting"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Women's health",
+          "url": "https://medlineplus.gov/womenshealth.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "endometriosis",
+      "disease_name": "Endometriosis",
+      "aliases": [
+        "endometrial implants"
+      ],
+      "common_symptoms": [
+        "pelvic pain",
+        "menstrual irregularity",
+        "bloating",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Endometriosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "hormonal imbalance",
+        "family history",
+        "reproductive age factors"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "heavy bleeding",
+        "fainting"
+      ],
+      "home_care": [
+        "pain tracking",
+        "hydration",
+        "regular gynecological review"
+      ],
+      "when_to_seek_doctor": [
+        "persistent pelvic symptoms",
+        "cycle changes"
+      ],
+      "emergency_signs": [
+        "sudden severe pain",
+        "shock signs",
+        "pregnancy with pain/bleeding"
+      ],
+      "diagnostics": [
+        "pelvic exam",
+        "ultrasound",
+        "hormonal tests"
+      ],
+      "treatment_overview": [
+        "medical or surgical management depending on condition"
+      ],
+      "prevention": [
+        "routine reproductive health check-ups",
+        "early symptom reporting"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Women's health",
+          "url": "https://medlineplus.gov/womenshealth.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    }
+  ]
+}

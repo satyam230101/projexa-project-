@@ -1,0 +1,6713 @@
+{
+  "version": "v1.1",
+  "updated_at": "2026-03-24T13:20:32Z",
+  "diseases": [
+    {
+      "disease_id": "influenza",
+      "disease_name": "Influenza",
+      "aliases": [
+        "flu"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Influenza when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "common_cold",
+      "disease_name": "Common Cold",
+      "aliases": [
+        "viral cold"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Common Cold when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "covid_19",
+      "disease_name": "COVID-19",
+      "aliases": [
+        "coronavirus disease"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider COVID-19 when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "asthma",
+      "disease_name": "Asthma",
+      "aliases": [
+        "bronchial asthma"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Asthma when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "chronic_obstructive_pulmonary_disease",
+      "disease_name": "Chronic Obstructive Pulmonary Disease",
+      "aliases": [
+        "COPD"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Chronic Obstructive Pulmonary Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "pneumonia",
+      "disease_name": "Pneumonia",
+      "aliases": [
+        "lung infection"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Pneumonia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "tuberculosis",
+      "disease_name": "Tuberculosis",
+      "aliases": [
+        "TB"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Tuberculosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "acute_bronchitis",
+      "disease_name": "Acute Bronchitis",
+      "aliases": [
+        "chest cold"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Acute Bronchitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "sinusitis",
+      "disease_name": "Sinusitis",
+      "aliases": [
+        "sinus infection"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Sinusitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "allergic_rhinitis",
+      "disease_name": "Allergic Rhinitis",
+      "aliases": [
+        "hay fever"
+      ],
+      "common_symptoms": [
+        "cough",
+        "breathlessness",
+        "chest discomfort",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Allergic Rhinitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "smoking",
+        "air pollution exposure",
+        "chronic lung disease"
+      ],
+      "red_flags": [
+        "severe shortness of breath",
+        "blue lips",
+        "chest pain"
+      ],
+      "home_care": [
+        "rest",
+        "adequate hydration",
+        "avoid smoke exposure"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 3 days",
+        "breathing worsens"
+      ],
+      "emergency_signs": [
+        "oxygen saturation drop",
+        "confusion",
+        "inability to speak full sentences"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "chest imaging when indicated",
+        "blood oxygen check"
+      ],
+      "treatment_overview": [
+        "cause-specific treatment",
+        "symptom control",
+        "follow-up monitoring"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "vaccination when available",
+        "mask use in outbreaks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Respiratory diseases",
+          "url": "https://www.who.int/health-topics/chronic-respiratory-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hypertension",
+      "disease_name": "Hypertension",
+      "aliases": [
+        "high blood pressure"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Hypertension when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "coronary_artery_disease",
+      "disease_name": "Coronary Artery Disease",
+      "aliases": [
+        "ischemic heart disease"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Coronary Artery Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "heart_failure",
+      "disease_name": "Heart Failure",
+      "aliases": [
+        "congestive heart failure"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Heart Failure when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "atrial_fibrillation",
+      "disease_name": "Atrial Fibrillation",
+      "aliases": [
+        "AF"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Atrial Fibrillation when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "stroke",
+      "disease_name": "Stroke",
+      "aliases": [
+        "cerebrovascular accident"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Stroke when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "deep_vein_thrombosis",
+      "disease_name": "Deep Vein Thrombosis",
+      "aliases": [
+        "DVT"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Deep Vein Thrombosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "pulmonary_embolism",
+      "disease_name": "Pulmonary Embolism",
+      "aliases": [
+        "PE"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Pulmonary Embolism when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "peripheral_artery_disease",
+      "disease_name": "Peripheral Artery Disease",
+      "aliases": [
+        "PAD"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Peripheral Artery Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hyperlipidemia",
+      "disease_name": "Hyperlipidemia",
+      "aliases": [
+        "high cholesterol"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Hyperlipidemia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "myocardial_infarction",
+      "disease_name": "Myocardial Infarction",
+      "aliases": [
+        "heart attack"
+      ],
+      "common_symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "palpitations",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Myocardial Infarction when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "high blood pressure",
+        "diabetes",
+        "smoking",
+        "high cholesterol"
+      ],
+      "red_flags": [
+        "crushing chest pain",
+        "fainting",
+        "new neurological weakness"
+      ],
+      "home_care": [
+        "medication adherence",
+        "salt restriction",
+        "regular blood pressure checks"
+      ],
+      "when_to_seek_doctor": [
+        "persistent chest symptoms",
+        "new swelling or reduced exercise tolerance"
+      ],
+      "emergency_signs": [
+        "severe chest pain",
+        "stroke signs",
+        "sudden breathlessness"
+      ],
+      "diagnostics": [
+        "ECG",
+        "blood tests",
+        "echocardiography when indicated"
+      ],
+      "treatment_overview": [
+        "risk-factor control",
+        "evidence-based medicines",
+        "urgent intervention when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "healthy diet",
+        "blood pressure and sugar control",
+        "stop smoking"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cardiovascular diseases",
+          "url": "https://www.who.int/health-topics/cardiovascular-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "type_2_diabetes_mellitus",
+      "disease_name": "Type 2 Diabetes Mellitus",
+      "aliases": [
+        "type 2 diabetes"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Type 2 Diabetes Mellitus when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "type_1_diabetes_mellitus",
+      "disease_name": "Type 1 Diabetes Mellitus",
+      "aliases": [
+        "type 1 diabetes"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Type 1 Diabetes Mellitus when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hypothyroidism",
+      "disease_name": "Hypothyroidism",
+      "aliases": [
+        "underactive thyroid"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Hypothyroidism when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hyperthyroidism",
+      "disease_name": "Hyperthyroidism",
+      "aliases": [
+        "overactive thyroid"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Hyperthyroidism when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "obesity",
+      "disease_name": "Obesity",
+      "aliases": [
+        "high body fat"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Obesity when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "metabolic_syndrome",
+      "disease_name": "Metabolic Syndrome",
+      "aliases": [
+        "insulin resistance syndrome"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Metabolic Syndrome when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cushing_syndrome",
+      "disease_name": "Cushing Syndrome",
+      "aliases": [
+        "hypercortisolism"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Cushing Syndrome when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "addison_disease",
+      "disease_name": "Addison Disease",
+      "aliases": [
+        "adrenal insufficiency"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Addison Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "polycystic_ovary_syndrome",
+      "disease_name": "Polycystic Ovary Syndrome",
+      "aliases": [
+        "PCOS"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Polycystic Ovary Syndrome when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gestational_diabetes",
+      "disease_name": "Gestational Diabetes",
+      "aliases": [
+        "pregnancy diabetes"
+      ],
+      "common_symptoms": [
+        "weight changes",
+        "fatigue",
+        "increased thirst or appetite",
+        "mood changes"
+      ],
+      "differential_clues": [
+        "Consider Gestational Diabetes when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "family history",
+        "obesity",
+        "sedentary lifestyle"
+      ],
+      "red_flags": [
+        "confusion",
+        "dehydration",
+        "severe weakness"
+      ],
+      "home_care": [
+        "regular monitoring",
+        "balanced diet",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "uncontrolled symptoms",
+        "recurrent low or high sugar symptoms"
+      ],
+      "emergency_signs": [
+        "altered consciousness",
+        "persistent vomiting",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "hormone panel",
+        "fasting glucose/HbA1c",
+        "metabolic profile"
+      ],
+      "treatment_overview": [
+        "lifestyle management",
+        "hormonal or glucose-lowering treatment"
+      ],
+      "prevention": [
+        "healthy weight",
+        "routine screening for high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Diabetes and endocrine health",
+          "url": "https://www.who.int/health-topics/diabetes",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gastroesophageal_reflux_disease",
+      "disease_name": "Gastroesophageal Reflux Disease",
+      "aliases": [
+        "GERD",
+        "acid reflux"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Gastroesophageal Reflux Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "peptic_ulcer_disease",
+      "disease_name": "Peptic Ulcer Disease",
+      "aliases": [
+        "stomach ulcer"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Peptic Ulcer Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "irritable_bowel_syndrome",
+      "disease_name": "Irritable Bowel Syndrome",
+      "aliases": [
+        "IBS"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Irritable Bowel Syndrome when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "inflammatory_bowel_disease",
+      "disease_name": "Inflammatory Bowel Disease",
+      "aliases": [
+        "IBD"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Inflammatory Bowel Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "crohn_disease",
+      "disease_name": "Crohn Disease",
+      "aliases": [
+        "regional enteritis"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Crohn Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "ulcerative_colitis",
+      "disease_name": "Ulcerative Colitis",
+      "aliases": [
+        "UC"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Ulcerative Colitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gastroenteritis",
+      "disease_name": "Gastroenteritis",
+      "aliases": [
+        "stomach flu"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Gastroenteritis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hepatitis_b",
+      "disease_name": "Hepatitis B",
+      "aliases": [
+        "HBV infection"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Hepatitis B when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "non_alcoholic_fatty_liver_disease",
+      "disease_name": "Non-Alcoholic Fatty Liver Disease",
+      "aliases": [
+        "NAFLD"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Non-Alcoholic Fatty Liver Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gallstones",
+      "disease_name": "Gallstones",
+      "aliases": [
+        "cholelithiasis"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Gallstones when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "appendicitis",
+      "disease_name": "Appendicitis",
+      "aliases": [
+        "appendix inflammation"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Appendicitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "pancreatitis",
+      "disease_name": "Pancreatitis",
+      "aliases": [
+        "pancreas inflammation"
+      ],
+      "common_symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bowel habit changes"
+      ],
+      "differential_clues": [
+        "Consider Pancreatitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unsafe food/water",
+        "alcohol misuse",
+        "high-fat diet"
+      ],
+      "red_flags": [
+        "blood in stool or vomit",
+        "persistent severe pain",
+        "dehydration"
+      ],
+      "home_care": [
+        "oral hydration",
+        "light meals",
+        "avoid trigger foods"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist beyond 48-72 hours",
+        "progressive pain"
+      ],
+      "emergency_signs": [
+        "severe abdominal rigidity",
+        "continuous vomiting",
+        "fainting"
+      ],
+      "diagnostics": [
+        "stool/blood tests",
+        "ultrasound or endoscopy when indicated"
+      ],
+      "treatment_overview": [
+        "cause-targeted treatment",
+        "rehydration",
+        "dietary adjustments"
+      ],
+      "prevention": [
+        "safe food handling",
+        "clean water",
+        "limit alcohol"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Digestive health",
+          "url": "https://medlineplus.gov/digestivediseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "chronic_kidney_disease",
+      "disease_name": "Chronic Kidney Disease",
+      "aliases": [
+        "CKD"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Chronic Kidney Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "acute_kidney_injury",
+      "disease_name": "Acute Kidney Injury",
+      "aliases": [
+        "AKI"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Acute Kidney Injury when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "urinary_tract_infection",
+      "disease_name": "Urinary Tract Infection",
+      "aliases": [
+        "UTI"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Urinary Tract Infection when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "kidney_stones",
+      "disease_name": "Kidney Stones",
+      "aliases": [
+        "renal stones"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Kidney Stones when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "benign_prostatic_hyperplasia",
+      "disease_name": "Benign Prostatic Hyperplasia",
+      "aliases": [
+        "BPH"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Benign Prostatic Hyperplasia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "prostatitis",
+      "disease_name": "Prostatitis",
+      "aliases": [
+        "prostate inflammation"
+      ],
+      "common_symptoms": [
+        "urinary discomfort",
+        "flank pain",
+        "swelling",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Prostatitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "diabetes",
+        "hypertension",
+        "low fluid intake"
+      ],
+      "red_flags": [
+        "no urine output",
+        "fever with flank pain",
+        "blood in urine"
+      ],
+      "home_care": [
+        "adequate hydration",
+        "blood pressure/sugar control",
+        "medication adherence"
+      ],
+      "when_to_seek_doctor": [
+        "recurrent urinary symptoms",
+        "worsening swelling or pain"
+      ],
+      "emergency_signs": [
+        "sepsis signs",
+        "severe dehydration",
+        "confusion"
+      ],
+      "diagnostics": [
+        "urinalysis",
+        "renal function tests",
+        "ultrasound"
+      ],
+      "treatment_overview": [
+        "treat infection or obstruction",
+        "kidney-protective management"
+      ],
+      "prevention": [
+        "hydration",
+        "prompt UTI treatment",
+        "chronic disease control"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Kidney and urinary tract",
+          "url": "https://medlineplus.gov/kidneydiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "migraine",
+      "disease_name": "Migraine",
+      "aliases": [
+        "migraine headache"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Migraine when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "tension_type_headache",
+      "disease_name": "Tension-Type Headache",
+      "aliases": [
+        "tension headache"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Tension-Type Headache when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "epilepsy",
+      "disease_name": "Epilepsy",
+      "aliases": [
+        "seizure disorder"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Epilepsy when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "parkinson_disease",
+      "disease_name": "Parkinson Disease",
+      "aliases": [
+        "parkinsonism"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Parkinson Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "alzheimer_disease",
+      "disease_name": "Alzheimer Disease",
+      "aliases": [
+        "dementia"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Alzheimer Disease when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "multiple_sclerosis",
+      "disease_name": "Multiple Sclerosis",
+      "aliases": [
+        "MS"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Multiple Sclerosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "peripheral_neuropathy",
+      "disease_name": "Peripheral Neuropathy",
+      "aliases": [
+        "nerve damage"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Peripheral Neuropathy when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "meningitis",
+      "disease_name": "Meningitis",
+      "aliases": [
+        "meningeal infection"
+      ],
+      "common_symptoms": [
+        "headache",
+        "weakness",
+        "numbness",
+        "balance changes"
+      ],
+      "differential_clues": [
+        "Consider Meningitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "vascular risk factors",
+        "family history",
+        "autoimmune tendency"
+      ],
+      "red_flags": [
+        "sudden weakness",
+        "speech difficulty",
+        "new seizures"
+      ],
+      "home_care": [
+        "sleep hygiene",
+        "trigger tracking",
+        "stress reduction"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent neurological symptoms",
+        "frequent disabling episodes"
+      ],
+      "emergency_signs": [
+        "stroke signs",
+        "altered consciousness",
+        "severe sudden headache"
+      ],
+      "diagnostics": [
+        "neurological exam",
+        "brain imaging",
+        "targeted lab tests"
+      ],
+      "treatment_overview": [
+        "condition-specific therapy",
+        "rehabilitation when needed"
+      ],
+      "prevention": [
+        "risk-factor control",
+        "regular follow-up",
+        "medication adherence"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Neurological conditions",
+          "url": "https://medlineplus.gov/neurologicdiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "conjunctivitis",
+      "disease_name": "Conjunctivitis",
+      "aliases": [
+        "pink eye"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Conjunctivitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "glaucoma",
+      "disease_name": "Glaucoma",
+      "aliases": [
+        "optic nerve damage"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Glaucoma when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cataract",
+      "disease_name": "Cataract",
+      "aliases": [
+        "lens opacity"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Cataract when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "otitis_media",
+      "disease_name": "Otitis Media",
+      "aliases": [
+        "middle ear infection"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Otitis Media when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "vertigo",
+      "disease_name": "Vertigo",
+      "aliases": [
+        "spinning sensation"
+      ],
+      "common_symptoms": [
+        "pain or irritation",
+        "discharge",
+        "reduced hearing or vision",
+        "dizziness"
+      ],
+      "differential_clues": [
+        "Consider Vertigo when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergies",
+        "infections",
+        "poor eye/ear hygiene"
+      ],
+      "red_flags": [
+        "sudden vision loss",
+        "severe ear pain with fever",
+        "persistent vertigo"
+      ],
+      "home_care": [
+        "rest",
+        "avoid irritants",
+        "follow local care advice"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms persist >48 hours",
+        "worsening pain"
+      ],
+      "emergency_signs": [
+        "sudden blindness",
+        "facial weakness",
+        "high fever with severe pain"
+      ],
+      "diagnostics": [
+        "eye/ear exam",
+        "audiometry or pressure checks",
+        "imaging if needed"
+      ],
+      "treatment_overview": [
+        "targeted antimicrobial/anti-inflammatory therapy"
+      ],
+      "prevention": [
+        "hand hygiene",
+        "avoid sharing personal items",
+        "routine eye checks"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Eye and ENT health",
+          "url": "https://medlineplus.gov/eyeproblems.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "osteoarthritis",
+      "disease_name": "Osteoarthritis",
+      "aliases": [
+        "degenerative joint disease"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Osteoarthritis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "rheumatoid_arthritis",
+      "disease_name": "Rheumatoid Arthritis",
+      "aliases": [
+        "RA"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Rheumatoid Arthritis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gout",
+      "disease_name": "Gout",
+      "aliases": [
+        "gouty arthritis"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Gout when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "systemic_lupus_erythematosus",
+      "disease_name": "Systemic Lupus Erythematosus",
+      "aliases": [
+        "SLE",
+        "lupus"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Systemic Lupus Erythematosus when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "osteoporosis",
+      "disease_name": "Osteoporosis",
+      "aliases": [
+        "low bone density"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Osteoporosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "low_back_pain",
+      "disease_name": "Low Back Pain",
+      "aliases": [
+        "lumbar pain"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Low Back Pain when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cervical_spondylosis",
+      "disease_name": "Cervical Spondylosis",
+      "aliases": [
+        "neck arthritis"
+      ],
+      "common_symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "movement limitation"
+      ],
+      "differential_clues": [
+        "Consider Cervical Spondylosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "age",
+        "repetitive strain",
+        "autoimmune disease"
+      ],
+      "red_flags": [
+        "hot swollen joint with fever",
+        "trauma with deformity",
+        "progressive weakness"
+      ],
+      "home_care": [
+        "rest and graded activity",
+        "joint protection",
+        "weight management"
+      ],
+      "when_to_seek_doctor": [
+        "pain >1 week",
+        "morning stiffness worsening",
+        "functional decline"
+      ],
+      "emergency_signs": [
+        "suspected fracture",
+        "septic joint signs",
+        "loss of bladder/bowel control with back pain"
+      ],
+      "diagnostics": [
+        "physical exam",
+        "X-ray/ultrasound",
+        "inflammatory markers"
+      ],
+      "treatment_overview": [
+        "pain control",
+        "physiotherapy",
+        "disease-modifying treatment when needed"
+      ],
+      "prevention": [
+        "exercise",
+        "ergonomic posture",
+        "adequate calcium/vitamin D"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Musculoskeletal conditions",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "psoriasis",
+      "disease_name": "Psoriasis",
+      "aliases": [
+        "plaque psoriasis"
+      ],
+      "common_symptoms": [
+        "itching",
+        "rash",
+        "redness",
+        "skin irritation"
+      ],
+      "differential_clues": [
+        "Consider Psoriasis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergen exposure",
+        "immune dysregulation",
+        "skin barrier damage"
+      ],
+      "red_flags": [
+        "rapidly spreading painful rash",
+        "fever with rash",
+        "skin necrosis"
+      ],
+      "home_care": [
+        "gentle skin care",
+        "avoid triggers",
+        "keep skin moisturized"
+      ],
+      "when_to_seek_doctor": [
+        "persistent rash",
+        "recurrent flare-ups",
+        "secondary infection signs"
+      ],
+      "emergency_signs": [
+        "breathing difficulty with rash",
+        "mucosal involvement",
+        "severe skin pain"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "allergy testing when indicated",
+        "biopsy for atypical lesions"
+      ],
+      "treatment_overview": [
+        "topical/systemic therapy based on severity"
+      ],
+      "prevention": [
+        "trigger avoidance",
+        "sun protection",
+        "skin hydration"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Skin conditions",
+          "url": "https://medlineplus.gov/skindiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "eczema",
+      "disease_name": "Eczema",
+      "aliases": [
+        "atopic dermatitis"
+      ],
+      "common_symptoms": [
+        "itching",
+        "rash",
+        "redness",
+        "skin irritation"
+      ],
+      "differential_clues": [
+        "Consider Eczema when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergen exposure",
+        "immune dysregulation",
+        "skin barrier damage"
+      ],
+      "red_flags": [
+        "rapidly spreading painful rash",
+        "fever with rash",
+        "skin necrosis"
+      ],
+      "home_care": [
+        "gentle skin care",
+        "avoid triggers",
+        "keep skin moisturized"
+      ],
+      "when_to_seek_doctor": [
+        "persistent rash",
+        "recurrent flare-ups",
+        "secondary infection signs"
+      ],
+      "emergency_signs": [
+        "breathing difficulty with rash",
+        "mucosal involvement",
+        "severe skin pain"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "allergy testing when indicated",
+        "biopsy for atypical lesions"
+      ],
+      "treatment_overview": [
+        "topical/systemic therapy based on severity"
+      ],
+      "prevention": [
+        "trigger avoidance",
+        "sun protection",
+        "skin hydration"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Skin conditions",
+          "url": "https://medlineplus.gov/skindiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "acne_vulgaris",
+      "disease_name": "Acne Vulgaris",
+      "aliases": [
+        "acne"
+      ],
+      "common_symptoms": [
+        "itching",
+        "rash",
+        "redness",
+        "skin irritation"
+      ],
+      "differential_clues": [
+        "Consider Acne Vulgaris when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergen exposure",
+        "immune dysregulation",
+        "skin barrier damage"
+      ],
+      "red_flags": [
+        "rapidly spreading painful rash",
+        "fever with rash",
+        "skin necrosis"
+      ],
+      "home_care": [
+        "gentle skin care",
+        "avoid triggers",
+        "keep skin moisturized"
+      ],
+      "when_to_seek_doctor": [
+        "persistent rash",
+        "recurrent flare-ups",
+        "secondary infection signs"
+      ],
+      "emergency_signs": [
+        "breathing difficulty with rash",
+        "mucosal involvement",
+        "severe skin pain"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "allergy testing when indicated",
+        "biopsy for atypical lesions"
+      ],
+      "treatment_overview": [
+        "topical/systemic therapy based on severity"
+      ],
+      "prevention": [
+        "trigger avoidance",
+        "sun protection",
+        "skin hydration"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Skin conditions",
+          "url": "https://medlineplus.gov/skindiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cellulitis",
+      "disease_name": "Cellulitis",
+      "aliases": [
+        "skin infection"
+      ],
+      "common_symptoms": [
+        "itching",
+        "rash",
+        "redness",
+        "skin irritation"
+      ],
+      "differential_clues": [
+        "Consider Cellulitis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "allergen exposure",
+        "immune dysregulation",
+        "skin barrier damage"
+      ],
+      "red_flags": [
+        "rapidly spreading painful rash",
+        "fever with rash",
+        "skin necrosis"
+      ],
+      "home_care": [
+        "gentle skin care",
+        "avoid triggers",
+        "keep skin moisturized"
+      ],
+      "when_to_seek_doctor": [
+        "persistent rash",
+        "recurrent flare-ups",
+        "secondary infection signs"
+      ],
+      "emergency_signs": [
+        "breathing difficulty with rash",
+        "mucosal involvement",
+        "severe skin pain"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "allergy testing when indicated",
+        "biopsy for atypical lesions"
+      ],
+      "treatment_overview": [
+        "topical/systemic therapy based on severity"
+      ],
+      "prevention": [
+        "trigger avoidance",
+        "sun protection",
+        "skin hydration"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Skin conditions",
+          "url": "https://medlineplus.gov/skindiseases.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "dengue",
+      "disease_name": "Dengue",
+      "aliases": [
+        "breakbone fever"
+      ],
+      "common_symptoms": [
+        "fever",
+        "headache",
+        "body pain",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Dengue when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "mosquito exposure",
+        "travel to endemic zones"
+      ],
+      "red_flags": [
+        "bleeding",
+        "persistent vomiting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "hydration",
+        "rest",
+        "monitor warning signs closely"
+      ],
+      "when_to_seek_doctor": [
+        "high fever >2 days",
+        "appearance of warning signs"
+      ],
+      "emergency_signs": [
+        "shock signs",
+        "altered mental status",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "CBC",
+        "rapid antigen/antibody tests",
+        "PCR where available"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "disease-specific treatment when available"
+      ],
+      "prevention": [
+        "mosquito bite prevention",
+        "vector control",
+        "safe water practices"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Vector-borne diseases",
+          "url": "https://www.who.int/health-topics/vector-borne-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "malaria",
+      "disease_name": "Malaria",
+      "aliases": [
+        "plasmodium infection"
+      ],
+      "common_symptoms": [
+        "fever",
+        "headache",
+        "body pain",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Malaria when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "mosquito exposure",
+        "travel to endemic zones"
+      ],
+      "red_flags": [
+        "bleeding",
+        "persistent vomiting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "hydration",
+        "rest",
+        "monitor warning signs closely"
+      ],
+      "when_to_seek_doctor": [
+        "high fever >2 days",
+        "appearance of warning signs"
+      ],
+      "emergency_signs": [
+        "shock signs",
+        "altered mental status",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "CBC",
+        "rapid antigen/antibody tests",
+        "PCR where available"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "disease-specific treatment when available"
+      ],
+      "prevention": [
+        "mosquito bite prevention",
+        "vector control",
+        "safe water practices"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Vector-borne diseases",
+          "url": "https://www.who.int/health-topics/vector-borne-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "typhoid_fever",
+      "disease_name": "Typhoid Fever",
+      "aliases": [
+        "enteric fever"
+      ],
+      "common_symptoms": [
+        "fever",
+        "headache",
+        "body pain",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Typhoid Fever when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "mosquito exposure",
+        "travel to endemic zones"
+      ],
+      "red_flags": [
+        "bleeding",
+        "persistent vomiting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "hydration",
+        "rest",
+        "monitor warning signs closely"
+      ],
+      "when_to_seek_doctor": [
+        "high fever >2 days",
+        "appearance of warning signs"
+      ],
+      "emergency_signs": [
+        "shock signs",
+        "altered mental status",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "CBC",
+        "rapid antigen/antibody tests",
+        "PCR where available"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "disease-specific treatment when available"
+      ],
+      "prevention": [
+        "mosquito bite prevention",
+        "vector control",
+        "safe water practices"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Vector-borne diseases",
+          "url": "https://www.who.int/health-topics/vector-borne-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "chikungunya",
+      "disease_name": "Chikungunya",
+      "aliases": [
+        "chikv infection"
+      ],
+      "common_symptoms": [
+        "fever",
+        "headache",
+        "body pain",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Chikungunya when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "mosquito exposure",
+        "travel to endemic zones"
+      ],
+      "red_flags": [
+        "bleeding",
+        "persistent vomiting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "hydration",
+        "rest",
+        "monitor warning signs closely"
+      ],
+      "when_to_seek_doctor": [
+        "high fever >2 days",
+        "appearance of warning signs"
+      ],
+      "emergency_signs": [
+        "shock signs",
+        "altered mental status",
+        "severe dehydration"
+      ],
+      "diagnostics": [
+        "CBC",
+        "rapid antigen/antibody tests",
+        "PCR where available"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "disease-specific treatment when available"
+      ],
+      "prevention": [
+        "mosquito bite prevention",
+        "vector control",
+        "safe water practices"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Vector-borne diseases",
+          "url": "https://www.who.int/health-topics/vector-borne-diseases",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "measles",
+      "disease_name": "Measles",
+      "aliases": [
+        "rubeola"
+      ],
+      "common_symptoms": [
+        "fever",
+        "rash or gland swelling",
+        "fatigue",
+        "upper respiratory symptoms"
+      ],
+      "differential_clues": [
+        "Consider Measles when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "incomplete vaccination",
+        "outbreak exposure"
+      ],
+      "red_flags": [
+        "breathing difficulty",
+        "dehydration",
+        "neurological symptoms"
+      ],
+      "home_care": [
+        "hydration",
+        "fever monitoring",
+        "isolation as advised"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fever",
+        "worsening rash",
+        "reduced oral intake"
+      ],
+      "emergency_signs": [
+        "seizure",
+        "confusion",
+        "severe breathing difficulty"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "serology/PCR in selected cases"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "complication management"
+      ],
+      "prevention": [
+        "timely vaccination",
+        "isolation during infectious period"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Immunization and vaccine-preventable diseases",
+          "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "mumps",
+      "disease_name": "Mumps",
+      "aliases": [
+        "parotitis"
+      ],
+      "common_symptoms": [
+        "fever",
+        "rash or gland swelling",
+        "fatigue",
+        "upper respiratory symptoms"
+      ],
+      "differential_clues": [
+        "Consider Mumps when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "incomplete vaccination",
+        "outbreak exposure"
+      ],
+      "red_flags": [
+        "breathing difficulty",
+        "dehydration",
+        "neurological symptoms"
+      ],
+      "home_care": [
+        "hydration",
+        "fever monitoring",
+        "isolation as advised"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fever",
+        "worsening rash",
+        "reduced oral intake"
+      ],
+      "emergency_signs": [
+        "seizure",
+        "confusion",
+        "severe breathing difficulty"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "serology/PCR in selected cases"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "complication management"
+      ],
+      "prevention": [
+        "timely vaccination",
+        "isolation during infectious period"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Immunization and vaccine-preventable diseases",
+          "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "rubella",
+      "disease_name": "Rubella",
+      "aliases": [
+        "german measles"
+      ],
+      "common_symptoms": [
+        "fever",
+        "rash or gland swelling",
+        "fatigue",
+        "upper respiratory symptoms"
+      ],
+      "differential_clues": [
+        "Consider Rubella when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "incomplete vaccination",
+        "outbreak exposure"
+      ],
+      "red_flags": [
+        "breathing difficulty",
+        "dehydration",
+        "neurological symptoms"
+      ],
+      "home_care": [
+        "hydration",
+        "fever monitoring",
+        "isolation as advised"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fever",
+        "worsening rash",
+        "reduced oral intake"
+      ],
+      "emergency_signs": [
+        "seizure",
+        "confusion",
+        "severe breathing difficulty"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "serology/PCR in selected cases"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "complication management"
+      ],
+      "prevention": [
+        "timely vaccination",
+        "isolation during infectious period"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Immunization and vaccine-preventable diseases",
+          "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "varicella",
+      "disease_name": "Varicella",
+      "aliases": [
+        "chickenpox"
+      ],
+      "common_symptoms": [
+        "fever",
+        "rash or gland swelling",
+        "fatigue",
+        "upper respiratory symptoms"
+      ],
+      "differential_clues": [
+        "Consider Varicella when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "incomplete vaccination",
+        "outbreak exposure"
+      ],
+      "red_flags": [
+        "breathing difficulty",
+        "dehydration",
+        "neurological symptoms"
+      ],
+      "home_care": [
+        "hydration",
+        "fever monitoring",
+        "isolation as advised"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fever",
+        "worsening rash",
+        "reduced oral intake"
+      ],
+      "emergency_signs": [
+        "seizure",
+        "confusion",
+        "severe breathing difficulty"
+      ],
+      "diagnostics": [
+        "clinical exam",
+        "serology/PCR in selected cases"
+      ],
+      "treatment_overview": [
+        "supportive care",
+        "complication management"
+      ],
+      "prevention": [
+        "timely vaccination",
+        "isolation during infectious period"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Immunization and vaccine-preventable diseases",
+          "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "hiv_infection",
+      "disease_name": "HIV Infection",
+      "aliases": [
+        "human immunodeficiency virus"
+      ],
+      "common_symptoms": [
+        "genital discharge",
+        "painful urination",
+        "pelvic discomfort",
+        "sores or rash"
+      ],
+      "differential_clues": [
+        "Consider HIV Infection when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unprotected sex",
+        "multiple partners"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "fever",
+        "pregnancy with symptoms"
+      ],
+      "home_care": [
+        "avoid sexual contact until evaluated",
+        "hydration",
+        "partner notification"
+      ],
+      "when_to_seek_doctor": [
+        "any persistent genital symptoms",
+        "new sores or discharge"
+      ],
+      "emergency_signs": [
+        "high fever",
+        "severe abdominal pain",
+        "confusion"
+      ],
+      "diagnostics": [
+        "NAAT/serology",
+        "clinical exam"
+      ],
+      "treatment_overview": [
+        "pathogen-specific antimicrobial therapy",
+        "partner management"
+      ],
+      "prevention": [
+        "condom use",
+        "routine screening",
+        "prompt treatment"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Sexually transmitted infections",
+          "url": "https://www.who.int/health-topics/sexually-transmitted-infections",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "syphilis",
+      "disease_name": "Syphilis",
+      "aliases": [
+        "treponema infection"
+      ],
+      "common_symptoms": [
+        "genital discharge",
+        "painful urination",
+        "pelvic discomfort",
+        "sores or rash"
+      ],
+      "differential_clues": [
+        "Consider Syphilis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unprotected sex",
+        "multiple partners"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "fever",
+        "pregnancy with symptoms"
+      ],
+      "home_care": [
+        "avoid sexual contact until evaluated",
+        "hydration",
+        "partner notification"
+      ],
+      "when_to_seek_doctor": [
+        "any persistent genital symptoms",
+        "new sores or discharge"
+      ],
+      "emergency_signs": [
+        "high fever",
+        "severe abdominal pain",
+        "confusion"
+      ],
+      "diagnostics": [
+        "NAAT/serology",
+        "clinical exam"
+      ],
+      "treatment_overview": [
+        "pathogen-specific antimicrobial therapy",
+        "partner management"
+      ],
+      "prevention": [
+        "condom use",
+        "routine screening",
+        "prompt treatment"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Sexually transmitted infections",
+          "url": "https://www.who.int/health-topics/sexually-transmitted-infections",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "gonorrhea",
+      "disease_name": "Gonorrhea",
+      "aliases": [
+        "gonococcal infection"
+      ],
+      "common_symptoms": [
+        "genital discharge",
+        "painful urination",
+        "pelvic discomfort",
+        "sores or rash"
+      ],
+      "differential_clues": [
+        "Consider Gonorrhea when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unprotected sex",
+        "multiple partners"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "fever",
+        "pregnancy with symptoms"
+      ],
+      "home_care": [
+        "avoid sexual contact until evaluated",
+        "hydration",
+        "partner notification"
+      ],
+      "when_to_seek_doctor": [
+        "any persistent genital symptoms",
+        "new sores or discharge"
+      ],
+      "emergency_signs": [
+        "high fever",
+        "severe abdominal pain",
+        "confusion"
+      ],
+      "diagnostics": [
+        "NAAT/serology",
+        "clinical exam"
+      ],
+      "treatment_overview": [
+        "pathogen-specific antimicrobial therapy",
+        "partner management"
+      ],
+      "prevention": [
+        "condom use",
+        "routine screening",
+        "prompt treatment"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Sexually transmitted infections",
+          "url": "https://www.who.int/health-topics/sexually-transmitted-infections",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "chlamydia",
+      "disease_name": "Chlamydia",
+      "aliases": [
+        "chlamydial infection"
+      ],
+      "common_symptoms": [
+        "genital discharge",
+        "painful urination",
+        "pelvic discomfort",
+        "sores or rash"
+      ],
+      "differential_clues": [
+        "Consider Chlamydia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "unprotected sex",
+        "multiple partners"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "fever",
+        "pregnancy with symptoms"
+      ],
+      "home_care": [
+        "avoid sexual contact until evaluated",
+        "hydration",
+        "partner notification"
+      ],
+      "when_to_seek_doctor": [
+        "any persistent genital symptoms",
+        "new sores or discharge"
+      ],
+      "emergency_signs": [
+        "high fever",
+        "severe abdominal pain",
+        "confusion"
+      ],
+      "diagnostics": [
+        "NAAT/serology",
+        "clinical exam"
+      ],
+      "treatment_overview": [
+        "pathogen-specific antimicrobial therapy",
+        "partner management"
+      ],
+      "prevention": [
+        "condom use",
+        "routine screening",
+        "prompt treatment"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Sexually transmitted infections",
+          "url": "https://www.who.int/health-topics/sexually-transmitted-infections",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "depression",
+      "disease_name": "Depression",
+      "aliases": [
+        "major depressive disorder"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Depression when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "generalized_anxiety_disorder",
+      "disease_name": "Generalized Anxiety Disorder",
+      "aliases": [
+        "GAD"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Generalized Anxiety Disorder when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "panic_disorder",
+      "disease_name": "Panic Disorder",
+      "aliases": [
+        "panic attacks"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Panic Disorder when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "bipolar_disorder",
+      "disease_name": "Bipolar Disorder",
+      "aliases": [
+        "bipolar affective disorder"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Bipolar Disorder when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "schizophrenia",
+      "disease_name": "Schizophrenia",
+      "aliases": [
+        "psychotic disorder"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Schizophrenia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "insomnia",
+      "disease_name": "Insomnia",
+      "aliases": [
+        "sleep initiation disorder"
+      ],
+      "common_symptoms": [
+        "low mood or anxiety",
+        "sleep disturbance",
+        "concentration issues",
+        "functional decline"
+      ],
+      "differential_clues": [
+        "Consider Insomnia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "chronic stress",
+        "family history",
+        "trauma"
+      ],
+      "red_flags": [
+        "self-harm thoughts",
+        "severe agitation",
+        "psychosis"
+      ],
+      "home_care": [
+        "sleep routine",
+        "social support",
+        "limit substance use"
+      ],
+      "when_to_seek_doctor": [
+        "symptoms >2 weeks",
+        "daily function affected"
+      ],
+      "emergency_signs": [
+        "suicidal intent",
+        "violent behavior",
+        "severe confusion"
+      ],
+      "diagnostics": [
+        "clinical assessment",
+        "screening scales"
+      ],
+      "treatment_overview": [
+        "psychotherapy",
+        "medication when indicated",
+        "regular follow-up"
+      ],
+      "prevention": [
+        "stress management",
+        "early help-seeking",
+        "community support"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "low",
+      "sources": [
+        {
+          "title": "Mental health",
+          "url": "https://www.who.int/health-topics/mental-health",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "iron_deficiency_anemia",
+      "disease_name": "Iron Deficiency Anemia",
+      "aliases": [
+        "IDA"
+      ],
+      "common_symptoms": [
+        "fatigue",
+        "pallor",
+        "dizziness",
+        "reduced exercise tolerance"
+      ],
+      "differential_clues": [
+        "Consider Iron Deficiency Anemia when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "nutritional deficiency",
+        "chronic illness",
+        "blood loss"
+      ],
+      "red_flags": [
+        "chest pain",
+        "fainting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "nutrient-rich diet",
+        "medication adherence",
+        "follow-up blood tests"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fatigue",
+        "symptoms worsening"
+      ],
+      "emergency_signs": [
+        "severe breathlessness",
+        "collapse",
+        "active bleeding"
+      ],
+      "diagnostics": [
+        "CBC",
+        "iron/B12 profile",
+        "cause-specific tests"
+      ],
+      "treatment_overview": [
+        "supplementation or targeted treatment"
+      ],
+      "prevention": [
+        "balanced diet",
+        "screening in high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Anaemia",
+          "url": "https://www.who.int/health-topics/anaemia",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "vitamin_b12_deficiency",
+      "disease_name": "Vitamin B12 Deficiency",
+      "aliases": [
+        "cobalamin deficiency"
+      ],
+      "common_symptoms": [
+        "fatigue",
+        "pallor",
+        "dizziness",
+        "reduced exercise tolerance"
+      ],
+      "differential_clues": [
+        "Consider Vitamin B12 Deficiency when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "nutritional deficiency",
+        "chronic illness",
+        "blood loss"
+      ],
+      "red_flags": [
+        "chest pain",
+        "fainting",
+        "severe weakness"
+      ],
+      "home_care": [
+        "nutrient-rich diet",
+        "medication adherence",
+        "follow-up blood tests"
+      ],
+      "when_to_seek_doctor": [
+        "persistent fatigue",
+        "symptoms worsening"
+      ],
+      "emergency_signs": [
+        "severe breathlessness",
+        "collapse",
+        "active bleeding"
+      ],
+      "diagnostics": [
+        "CBC",
+        "iron/B12 profile",
+        "cause-specific tests"
+      ],
+      "treatment_overview": [
+        "supplementation or targeted treatment"
+      ],
+      "prevention": [
+        "balanced diet",
+        "screening in high-risk groups"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Anaemia",
+          "url": "https://www.who.int/health-topics/anaemia",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "breast_cancer",
+      "disease_name": "Breast Cancer",
+      "aliases": [
+        "mammary carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Breast Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "cervical_cancer",
+      "disease_name": "Cervical Cancer",
+      "aliases": [
+        "cervix carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Cervical Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "colorectal_cancer",
+      "disease_name": "Colorectal Cancer",
+      "aliases": [
+        "colon cancer"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Colorectal Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "lung_cancer",
+      "disease_name": "Lung Cancer",
+      "aliases": [
+        "pulmonary carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Lung Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "prostate_cancer",
+      "disease_name": "Prostate Cancer",
+      "aliases": [
+        "prostatic carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Prostate Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "thyroid_cancer",
+      "disease_name": "Thyroid Cancer",
+      "aliases": [
+        "thyroid carcinoma"
+      ],
+      "common_symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "pain",
+        "new mass or bleeding"
+      ],
+      "differential_clues": [
+        "Consider Thyroid Cancer when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "tobacco",
+        "family history",
+        "age"
+      ],
+      "red_flags": [
+        "persistent unexplained symptoms",
+        "bleeding",
+        "rapid decline"
+      ],
+      "home_care": [
+        "follow specialist plan",
+        "nutrition support",
+        "symptom diary"
+      ],
+      "when_to_seek_doctor": [
+        "new persistent alarming symptoms",
+        "screening abnormalities"
+      ],
+      "emergency_signs": [
+        "airway compromise",
+        "severe bleeding",
+        "high fever in immunocompromised patient"
+      ],
+      "diagnostics": [
+        "imaging",
+        "biopsy",
+        "tumor-specific lab tests"
+      ],
+      "treatment_overview": [
+        "surgery, radiotherapy, chemotherapy or targeted treatment as advised"
+      ],
+      "prevention": [
+        "screening",
+        "avoid tobacco",
+        "vaccination where relevant"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "high",
+      "sources": [
+        {
+          "title": "Cancer",
+          "url": "https://www.who.int/health-topics/cancer",
+          "publisher": "WHO",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "ovarian_cyst",
+      "disease_name": "Ovarian Cyst",
+      "aliases": [
+        "functional ovarian cyst"
+      ],
+      "common_symptoms": [
+        "pelvic pain",
+        "menstrual irregularity",
+        "bloating",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Ovarian Cyst when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "hormonal imbalance",
+        "family history",
+        "reproductive age factors"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "heavy bleeding",
+        "fainting"
+      ],
+      "home_care": [
+        "pain tracking",
+        "hydration",
+        "regular gynecological review"
+      ],
+      "when_to_seek_doctor": [
+        "persistent pelvic symptoms",
+        "cycle changes"
+      ],
+      "emergency_signs": [
+        "sudden severe pain",
+        "shock signs",
+        "pregnancy with pain/bleeding"
+      ],
+      "diagnostics": [
+        "pelvic exam",
+        "ultrasound",
+        "hormonal tests"
+      ],
+      "treatment_overview": [
+        "medical or surgical management depending on condition"
+      ],
+      "prevention": [
+        "routine reproductive health check-ups",
+        "early symptom reporting"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Women's health",
+          "url": "https://medlineplus.gov/womenshealth.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "disease_id": "endometriosis",
+      "disease_name": "Endometriosis",
+      "aliases": [
+        "endometrial implants"
+      ],
+      "common_symptoms": [
+        "pelvic pain",
+        "menstrual irregularity",
+        "bloating",
+        "fatigue"
+      ],
+      "differential_clues": [
+        "Consider Endometriosis when symptom cluster and risk profile match.",
+        "Rule out emergency and overlapping conditions via clinical evaluation."
+      ],
+      "risk_factors": [
+        "hormonal imbalance",
+        "family history",
+        "reproductive age factors"
+      ],
+      "red_flags": [
+        "severe pelvic pain",
+        "heavy bleeding",
+        "fainting"
+      ],
+      "home_care": [
+        "pain tracking",
+        "hydration",
+        "regular gynecological review"
+      ],
+      "when_to_seek_doctor": [
+        "persistent pelvic symptoms",
+        "cycle changes"
+      ],
+      "emergency_signs": [
+        "sudden severe pain",
+        "shock signs",
+        "pregnancy with pain/bleeding"
+      ],
+      "diagnostics": [
+        "pelvic exam",
+        "ultrasound",
+        "hormonal tests"
+      ],
+      "treatment_overview": [
+        "medical or surgical management depending on condition"
+      ],
+      "prevention": [
+        "routine reproductive health check-ups",
+        "early symptom reporting"
+      ],
+      "age_group_notes": [
+        "Clinical severity and management vary by age, pregnancy, and comorbidities."
+      ],
+      "severity_level": "medium",
+      "sources": [
+        {
+          "title": "Women's health",
+          "url": "https://medlineplus.gov/womenshealth.html",
+          "publisher": "MedlinePlus",
+          "last_updated": "2026-03-24"
+        }
+      ]
+    }
+  ]
+}
